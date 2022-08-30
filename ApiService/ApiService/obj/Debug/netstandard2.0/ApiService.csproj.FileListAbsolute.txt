@@ -1,0 +1,15 @@
+E:\Work\Link Development\ApiService\ApiService\ApiService\obj\Debug\netstandard2.0\ApiService.csproj.AssemblyReference.cache
+E:\Work\Link Development\ApiService\ApiService\ApiService\obj\Debug\netstandard2.0\ApiService.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\Link Development\ApiService\ApiService\ApiService\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Work\Link Development\ApiService\ApiService\ApiService\obj\Debug\netstandard2.0\View\PostsPage.xaml.g.cs
+E:\Work\Link Development\ApiService\ApiService\ApiService\obj\Debug\netstandard2.0\ApiService.AssemblyInfoInputs.cache
+E:\Work\Link Development\ApiService\ApiService\ApiService\obj\Debug\netstandard2.0\ApiService.AssemblyInfo.cs
+E:\Work\Link Development\ApiService\ApiService\ApiService\obj\Debug\netstandard2.0\ApiService.csproj.CoreCompileInputs.cache
+E:\Work\Link Development\ApiService\ApiService\ApiService\bin\Debug\netstandard2.0\ApiService.deps.json
+E:\Work\Link Development\ApiService\ApiService\ApiService\bin\Debug\netstandard2.0\ApiService.dll
+E:\Work\Link Development\ApiService\ApiService\ApiService\bin\Debug\netstandard2.0\ApiService.pdb
+E:\Work\Link Development\ApiService\ApiService\ApiService\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Work\Link Development\ApiService\ApiService\ApiService\obj\Debug\netstandard2.0\ApiService.dll
+E:\Work\Link Development\ApiService\ApiService\ApiService\obj\Debug\netstandard2.0\refint\ApiService.dll
+E:\Work\Link Development\ApiService\ApiService\ApiService\obj\Debug\netstandard2.0\ApiService.pdb
+E:\Work\Link Development\ApiService\ApiService\ApiService\obj\Debug\netstandard2.0\ref\ApiService.dll
